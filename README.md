@@ -34,14 +34,6 @@ Support Vector Machines (SVM) are supervised learning algorithms used primarily 
 3. Open the notebook `MyQSVMfromScratch.ipynb` in Jupyter.
 4. Run the cells sequentially to follow the explanations and results.
 
-## Example
-
-The notebook starts by illustrating the classical SVM approach:
-
-![SVM Visualization](attachment:2bfa4f81-9dd3-4bf5-b885-d32b3e855158.png)
-
-It then proceeds to implement the quantum kernel and applies it to a sample classification problem.
-
 ## License
 
 This project is provided for educational and research purposes.
